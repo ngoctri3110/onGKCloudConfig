@@ -1,1 +1,3 @@
 welcome: NguyenNgocTri!
+server:
+    port: 9001
